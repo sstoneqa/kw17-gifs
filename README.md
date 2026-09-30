@@ -3,7 +3,7 @@
 # KW17 GIF Gallery
 
 ## Apollo Deslox × RoomX
-![Apollo Deslox × RoomX](KW17_Apoll​oxRoomx.gif)
+![Apollo Deslox × RoomX](KW17_ApolloDelosxRoomx.gif)
 
 ## Firemonkey
 ![Firemonkey](KW17_FM.gif)
