@@ -21,7 +21,7 @@
 ![RPG](KW17_RPG.gif)
 
 ## TCM
-![TCM](KW17_TCM.gif)
+![TCM](KW17_TCMa.gif)
 
 ## Volcanic
 ![Volcanic](KW17_Volcanic.gif)
