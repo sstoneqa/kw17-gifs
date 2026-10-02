@@ -15,7 +15,7 @@
 ![I\V\N](KW17_IVN.gif)
 
 ## MISS_E
-![MISS_E](KW17_Miss_E.gif)
+![MISS_E](KW17DJGIF_Miss_e.gif)
 
 ## RPG
 ![RPG](KW17_RPG.gif)
